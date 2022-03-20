@@ -1,5 +1,5 @@
 # Microverse First Coding Challende
-## NFT COllection Landing Page
+NFT Collection Landing Page
 
 ## Made By:
   -Enmanuel Becerra
