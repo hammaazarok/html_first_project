@@ -1,0 +1,22 @@
+*{ 
+	font-family: cursive;
+	text-align: justify;
+}
+
+#image_nft{ z-index: 1; }
+body{ overflow: hidden; }
+img{ 
+	filter: contrast(1.2);
+	object-fit: cover; 
+}
+main{
+	overflow: scroll;
+	height: 90vh;
+}
+
+
+.uk-github{
+	display: flex;
+	flex-direction: row-reverse;
+	justify-content: flex-end;
+}
